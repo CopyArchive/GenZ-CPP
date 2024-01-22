@@ -8,9 +8,9 @@ If gen-z has created C++. A concept by copy05
 Hop_on_Steam() {
 	eww i = TopG;
 	vibe_check(i bethis one){
-		yap("fucking ass");
+		yap("i f you");
 	} yikes{
-		yap("fucking tits");
+		yap("fuck you");
 	};
 	holup;
 	get_the_fuck_out;
